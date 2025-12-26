@@ -1,0 +1,7 @@
+﻿إكس تريل : SUV
+بلوبيرد : Sedan
+تيدا : Sedan
+جوك : Hatchback, SUV
+سنترا : Sedan
+صني : Sedan
+قشقاي : Hatchback, SUV

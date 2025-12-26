@@ -1,0 +1,8 @@
+﻿أسترا : Hatchback, Sedan
+انسيجنيا : Sedan
+جراند لاند : SUV
+فيكترا : Sedan
+كاسكادا : Cabriolet
+كروس لاند : Hatchback
+كورسا : Hatchback, SUV, Sedan
+موكا : Hatchback, SUV

@@ -1,0 +1,5 @@
+﻿S60 : Sedan
+S80 : Sedan
+XC 40 : SUV
+XC 60 : SUV
+XC 90 : SUV

@@ -1,0 +1,32 @@
+﻿118i : Hatchback
+120i : Hatchback
+218i : Cabriolet, SUV, Sedan
+235i : Sedan
+316i : Cabriolet, Sedan
+318i : Sedan
+320i : Sedan
+340i : Sedan
+418i : Sedan
+420i جران كوبيه : Sedan
+420i كابورليه : Cabriolet
+430i كابورليه : Cabriolet
+520i : SUV, Sedan
+523i : Sedan
+525i : Sedan
+528i : Sedan
+530i : Sedan
+535i : Sedan
+730Li : Sedan
+740Li : Sedan
+740i : Sedan
+750Li : Sedan
+M4 : Coupe
+M8 : Coupe
+M850i : Sedan
+X1 : Hatchback, SUV
+X2 : Hatchback, SUV
+X3 : Hatchback, SUV, Station
+X5 : SUV
+X6 : Coupe, SUV
+X7 : SUV
+Z4 : Cabriolet

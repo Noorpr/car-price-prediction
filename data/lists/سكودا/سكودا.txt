@@ -1,0 +1,11 @@
+﻿اوكتافيا : Sedan
+اوكتافيا A4 : Sedan
+اوكتافيا A5 : Sedan
+اوكتافيا A7 : Sedan
+اوكتافيا A8 : Sedan
+رابيد : Sedan
+سوبيرب : Sedan
+فانتازيا : Sedan
+فيليشيا : Hatchback
+كاروك : Hatchback, SUV
+كودياك : Hatchback, SUV

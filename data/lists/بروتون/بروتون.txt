@@ -1,0 +1,5 @@
+﻿برسونا : Sedan
+بريفى : Sedan
+جين 2 : Hatchback, Sedan
+ساجا : Sedan
+ويرا : Sedan

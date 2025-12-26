@@ -1,0 +1,4 @@
+﻿فوكاس : Hatchback, Sedan
+فيوجن : Sedan
+كوجا : SUV
+موستانج : Coupe

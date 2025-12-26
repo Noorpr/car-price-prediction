@@ -1,0 +1,5 @@
+﻿GS4 : SUV
+GS4 Max : SUV
+إم زووم : SUV
+إم كو : SUV
+إمباو : Sedan

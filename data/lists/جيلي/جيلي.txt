@@ -1,0 +1,8 @@
+﻿GX3 PRO : SUV
+X 7 : SUV
+إمجراند : Sedan
+ايمجراند 7 : Sedan
+ايمجراند اكس 7 : Hatchback
+ستار راي : SUV
+سيتي راي : SUV
+كول راي : SUV

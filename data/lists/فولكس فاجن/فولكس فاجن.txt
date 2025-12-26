@@ -1,0 +1,14 @@
+﻿إيوس : Sedan
+باراتى : Hatchback
+باسات : Sedan, Station
+باسات فاريانت : Station
+بورا : Sedan
+بولو : Hatchback, Sedan
+تايرون : SUV
+تي روك : Hatchback, SUV
+تيجوان : SUV
+جولف : Hatchback
+جولف 5 : Hatchback
+جولف 7 : Hatchback
+جيتا : Sedan
+طوارق : SUV

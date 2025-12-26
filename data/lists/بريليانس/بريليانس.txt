@@ -1,0 +1,5 @@
+﻿FRV : Hatchback
+FSV : Sedan
+V3 : SUV
+جالينا : Sedan
+سبلندور : Sedan

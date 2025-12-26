@@ -1,0 +1,11 @@
+﻿911 تربو : Cabriolet
+باناميرا : Sedan
+كاريرا : Coupe
+كاريرا 911 : Coupe
+كايمن 718 : Coupe
+كايين : Coupe, SUV
+كايين S : SUV
+كايين كوبيه : Coupe, SUV
+كيان : SUV
+ماكان : SUV, Sedan
+ماكان S : Hatchback

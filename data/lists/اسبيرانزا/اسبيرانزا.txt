@@ -1,0 +1,4 @@
+﻿A113 : Hatchback
+A516 : Sedan
+A620 : Sedan
+تيجو : SUV

@@ -1,0 +1,10 @@
+﻿أتراج : Sedan
+أوت لاندر : SUV
+اكسباندر : Hatchback, SUV, Station, Van
+اكليبس كروس : SUV
+باجيرو : SUV
+كولت : Coupe, Hatchback
+لانسر : Sedan
+لانسر بومة : Hatchback, Sedan
+لانسر شارك : Sedan
+ميراج : Hatchback

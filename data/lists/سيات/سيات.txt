@@ -1,0 +1,7 @@
+﻿ابيزا : Hatchback
+اتيكا : SUV
+ارونا : Hatchback, SUV
+تاراكو : SUV
+توليدو : Sedan
+كوبرا : SUV
+ليون : Hatchback, SUV

@@ -1,0 +1,10 @@
+﻿أكو : Sedan
+اوربان كروزر : SUV
+بيلتا : Sedan
+تريسل : Sedan
+راش : SUV
+فورتشنر : Hatchback, SUV
+كورولا : Sedan
+لاند كروزر : SUV
+هيلوكس : Pickup
+ياريس : Hatchback, Sedan

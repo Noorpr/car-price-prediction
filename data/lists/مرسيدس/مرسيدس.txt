@@ -1,0 +1,45 @@
+﻿A180 : Sedan
+A200 : Sedan
+B 180 : Hatchback
+B 200 : Hatchback
+B150 : Hatchback
+C 180 station : Sedan
+C 280 : Sedan
+C180 : Cabriolet, Coupe, Sedan
+C200 : Cabriolet, Coupe, Sedan
+CLA 180 : Coupe, Sedan
+CLA 200 : Coupe, Sedan
+CLA 45s : Sedan
+CLE 200 : Coupe
+CLE 300 : Coupe
+CLE200 : Coupe
+CLS 350 : Sedan
+E 180 : Sedan
+E 250 : Sedan
+E Cabriolet : Cabriolet
+E Coupe : Coupe
+E200 : Sedan
+E300 : Sedan
+E350 : Sedan
+G 500 : SUV
+G 63 : SUV
+GLA 200 : Hatchback, SUV
+GLB 200 : SUV
+GLC 200 : Coupe, SUV
+GLC 300 : Coupe, SUV, Sedan
+GLC 300 COUPE : Coupe, Hatchback, SUV
+GLC 43 : Coupe, SUV
+GLC 63s : SUV
+GLE 450 : Hatchback, SUV
+GLE63 : SUV
+GLS 580 : SUV
+GT43 : Coupe, Sedan
+S320 : Sedan
+S350 : Sedan
+S450 : Sedan
+S500 : Sedan
+S560 : Sedan
+S63 : Sedan
+SLC 180 : Cabriolet
+V 250 : Van
+V300 : SUV, Van

@@ -1,0 +1,17 @@
+﻿2015 : SUV
+2020 : Hatchback
+2021 : SUV
+2022 : SUV
+2026 : SUV
+206 : Hatchback
+208 : Hatchback
+3008 : SUV
+301 : Sedan
+307 : Hatchback, Station
+308 : Hatchback
+405 : Sedan
+406 : Sedan
+408 : Hatchback, SUV, Sedan
+5008 : SUV
+508 : Sedan
+RCZ : Coupe

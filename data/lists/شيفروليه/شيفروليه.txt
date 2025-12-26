@@ -1,0 +1,14 @@
+﻿N200 : Pickup
+N300 : Sedan, Van
+NKR : Pickup
+NPR : Pickup
+افيو : Sedan
+الدبابة TFR : Pickup
+اوبترا : Sedan
+ايكونوكس : SUV
+سبارك : Hatchback
+كابتيفا : Hatchback, SUV
+كامارو : Coupe, Sedan
+كروز : Sedan
+لانوس : Sedan
+ماليبو : Sedan

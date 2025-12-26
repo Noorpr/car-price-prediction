@@ -1,0 +1,26 @@
+﻿I10 : Hatchback
+I20 : Hatchback
+I30 : Hatchback, SUV, Sedan
+IX 35 : SUV
+أكسنت : Sedan
+أكسنت RB : Sedan
+اتوس : Hatchback, SUV
+افانتي : Sedan
+اكسل : Sedan
+النترا : Sedan
+النترا AD : Sedan
+النترا CN7 : Sedan
+النترا HD : Sedan
+النترا MD : Sedan
+بايون : Hatchback
+توسان : SUV
+توسان NX4e : SUV
+جيتز : Hatchback
+جينيسيس : Sedan
+سولاريس : Sedan
+سوناتا : Sedan
+فرنا 1.6 : Sedan
+فيرنا : Sedan
+فيفا : Sedan
+كوبيه : Coupe
+ماتريكس : Hatchback, SUV

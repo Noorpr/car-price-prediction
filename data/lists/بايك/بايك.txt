@@ -1,0 +1,4 @@
+﻿BJ30 : SUV
+U5 Plus : Sedan
+X 55 : SUV
+X5 : SUV

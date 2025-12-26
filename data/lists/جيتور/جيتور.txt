@@ -1,0 +1,8 @@
+﻿T1 : SUV
+T2 : SUV
+X70 : SUV
+X70 Facelift : SUV
+X70 Plus CKD : SUV
+X90 Plus : SUV
+X95 : SUV
+داشينج : Hatchback, SUV

@@ -1,0 +1,13 @@
+﻿اريزو 5 : Sedan
+اريزو 5 فيس ليفت : Sedan
+اريزو 8 : Sedan
+انفي : Sedan
+تيجو : SUV
+تيجو 3 : Hatchback, SUV
+تيجو 4 برو : Hatchback, SUV
+تيجو 7 : SUV
+تيجو 7 برو : SUV
+تيجو 7 برو ماكس : SUV
+تيجو 8 : Hatchback, SUV
+تيجو 8 برو ماكس : SUV
+تيجو 9 : SUV

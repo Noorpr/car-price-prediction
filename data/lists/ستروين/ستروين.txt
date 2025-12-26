@@ -1,0 +1,10 @@
+﻿C3 : Hatchback
+C4 : SUV, Sedan
+C4 X : Hatchback, SUV
+C4 جراند بيكاسو : SUV
+C5 : SUV
+C5 اير كروس : Hatchback, SUV
+DS4 : SUV
+ZX : Hatchback
+اكسارا : Hatchback
+سى اليزيه : Sedan

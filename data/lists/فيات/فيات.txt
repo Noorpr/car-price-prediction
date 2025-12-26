@@ -1,0 +1,14 @@
+﻿128 نوفا : Sedan
+500C : Hatchback
+500X : Hatchback, SUV
+اونو : Hatchback
+بولونيز : Hatchback
+بونتو : Hatchback
+تمبرا : Sedan
+تيبو : Hatchback, Sedan
+تيبو هاتشباك : Hatchback
+جراند بونتو : Hatchback
+دوكاتو : Van
+ريجاتا : Sedan
+سيينا : Sedan
+ماريا : Station

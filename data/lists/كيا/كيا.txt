@@ -1,0 +1,19 @@
+﻿K3 : Sedan
+K4 : Sedan
+K8 : Sedan
+إكسيد : Hatchback, SUV
+برايد : Sedan
+بيجاس : Sedan
+بيكانتو : Hatchback
+جراند سيراتو : Sedan
+ريو : Hatchback, Sedan
+سبكترا : Sedan
+سبورتاج : Hatchback, SUV
+سورينتو : SUV, Sedan
+سول : SUV
+سيراتو : Coupe, Sedan
+سيلتوس : Hatchback
+شوما : Sedan
+فورتي : Sedan
+كارينز : Hatchback, SUV
+كرنفال : SUV, Van

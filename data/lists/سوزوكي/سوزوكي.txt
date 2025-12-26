@@ -1,0 +1,11 @@
+﻿SX4 : Sedan
+ألتو : Hatchback
+إسبريسو : Hatchback
+ارتيجا : Hatchback
+بالينو : Hatchback, SUV
+جراند فيتارا : SUV
+ديزاير : Sedan
+سويفت : Hatchback
+سويفت دزاير : Sedan
+سياز : Sedan
+فان : Van

@@ -1,0 +1,15 @@
+﻿11 : Sedan
+9 : Sedan
+MCV لوجان : Sedan
+أوسترال : SUV, Sedan
+تاليانت : Sedan
+داستر : SUV
+سانديرو : Hatchback
+سانديرو ستيب واي : Hatchback, SUV
+فلوانس : Sedan
+كابتشر : Hatchback, SUV
+كادجار : SUV
+كارديان : SUV
+كليو : Sedan
+لوجان : Sedan
+ميجان : Coupe, Hatchback, Sedan

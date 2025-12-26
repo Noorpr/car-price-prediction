@@ -1,0 +1,9 @@
+﻿5 : Sedan
+6 : Sedan
+7 : Sedan
+HS : SUV
+MG 3 : Hatchback
+One : SUV
+RX5 : SUV
+RX5 Plus : SUV
+ZS : Hatchback, SUV

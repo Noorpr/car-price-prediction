@@ -1,0 +1,11 @@
+﻿A3 : Coupe, Hatchback, Sedan
+A4 : Sedan
+A5 : Sedan
+A6 : Sedan
+A8 : Sedan
+Q2 : SUV
+Q3 : Hatchback, SUV, Sedan
+Q7 : SUV, Sedan
+Q8 : Coupe, SUV
+RS Q8 : SUV
+SQ8 : SUV

@@ -1,0 +1,6 @@
+﻿J7 : Sedan
+JS2 : SUV
+JS3 : SUV
+S2 : Hatchback, SUV
+S3 : SUV
+S4 : SUV

@@ -1,0 +1,2 @@
+﻿B70 : Sedan
+B70 S : SUV

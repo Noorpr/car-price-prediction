@@ -1,0 +1,8 @@
+﻿CS15 : Hatchback
+CS35 PLUS : SUV
+CS55 : SUV
+CS55 بلس : Hatchback, SUV
+UNI-T : SUV
+UNI-V : Sedan
+إيدو : Sedan
+إيدو بلس : Sedan
